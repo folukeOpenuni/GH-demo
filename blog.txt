@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Jetsetter Concierge Travel Planning</title>
+  <title>Travel Planning</title>
   <link href="amazingTravel.css"
   type="text/css"
   rel="stylesheet">
@@ -12,8 +12,10 @@
 
   <div class="header">
     <div id="header-text">
+	
       <h1>Travel Like Never Before</h1>
       <h2>Whether you're looking for adventure or luxury, let us help you plan your perfect getaway.</h2>
+	  <h3>Jetsetter Concierge Travel Planning</h3>
     </div>
   </div>
 
