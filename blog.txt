@@ -53,5 +53,10 @@
     </div>
   </div>
   
+  
+  
+   <footer>
+    <span>&copy; Banas Travel Blog</span>
+  </footer>
 </body>
 </html>
